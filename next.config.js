@@ -12,6 +12,10 @@ const nextConfig = {
         protocol: "https",
         hostname: "assets.halo.autocode.gg",
       },
+      {
+        protocol: "https",
+        hostname: "halostats.ca"
+      }
     ]
   }
 }
