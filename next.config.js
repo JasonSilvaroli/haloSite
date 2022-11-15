@@ -20,6 +20,11 @@ const nextConfig = {
         protocol: "https",
         hostname: "halostats.ca"
       }
+    ],
+    domains: [
+      "content.halocdn.com",
+      "assets.halo.autocode.gg",
+      "halostats.ca"
     ]
   }
 }
